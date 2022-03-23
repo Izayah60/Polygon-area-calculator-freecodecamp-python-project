@@ -1,4 +1,4 @@
-Assignment
+##  Assignment
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
 Rectangle class
@@ -91,11 +91,11 @@ Square(side=4)
 8
 The unit tests for this project are in test_module.py.
 
-Development
+## Development
 Write your code in shape_calculator.py. For development, you can use main.py to test your shape_calculator() function. Click the "run" button and main.py will run.
 
-Testing
+## Testing
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-Submitting
+## Submitting
 Copy your project's URL and submit it to freeCodeCamp.
